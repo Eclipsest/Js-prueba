@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 BK.logout();
 
-                location.replace('login.html');
+                location.replace('index.html');
 
             });
         }
